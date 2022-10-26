@@ -107,4 +107,4 @@ Jika track record dari calon peminjam baik maka usulan peminjamannya akan diteri
 2. [Prabaningrum Hendraswari B.](https://github.com/Prabaningrum)
 3. [Radyatra Sidharta](github.com/Radyatra)
 4. [Titian F. Prasasti](github.com/titianprasasti)
-5. [Ronaldo Syahputra](github.com/iOdlanor)
+5. [RonaldoSyahputra](github.com/iOdlanor)
