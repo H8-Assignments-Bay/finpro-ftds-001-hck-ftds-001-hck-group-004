@@ -103,8 +103,8 @@ Jika track record dari calon peminjam baik maka usulan peminjamannya akan diteri
 
 
 ## Contributor
-1. [Daniel Satria](github.com/daniel-satria)
-2. [Prabaningrum Hendraswari B.](https://github.com/Prabaningrum)
-3. [Radyatra Sidharta](github.com/Radyatra)
-4. [Titian F. Prasasti](github.com/titianprasasti)
-5. [RonaldoSyahputra](github.com/iOdlanor)
+1. Daniel Satria
+2. Prabaningrum Hendraswari B.
+3. Radyatra Sidharta
+4. Titian F. Prasasti
+5. Ronaldo Syahputra
