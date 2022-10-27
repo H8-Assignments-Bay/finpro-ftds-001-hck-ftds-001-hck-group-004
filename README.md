@@ -13,7 +13,7 @@ Menurut survei statistik fintech lending oleh OJK dan Survei Perbankan oleh BI, 
 
 Masalahnya adalah proses review penetuan diterima atau ditolaknya suatu pinjaman sangat lama berkisar 4-14 hari. Mayoritas industri menggunakan masih menggunakan review manual. Sehingga cost analisis resiko masih tinggi.
 
-Project soter menawarkan sebuah sistem yang akan mampu mempercepat proses penentuan diterima atau ditolaknya pinjaman serta meningkatkan efisiensi review pengajuan pinjaman dengan algoritma machine learning dan deep learning. sehingga kita dapat menghindari meloloskan calon debitur bermasalah yg dapat menjadi potensi yang merugikan industri.
+Project soter menawarkan sebuah sistem yang akan mampu mempercepat proses penentuan diterima atau ditolaknya pinjaman serta meningkatkan efisiensi review pengajuan pinjaman dengan algoritma machine learning dan deep learning. sehingga kita dapat menghindari meloloskan calon debitur bermasalah yang dapat menjadi potensi yang merugikan industri.
 
 ## Objective
 
@@ -58,7 +58,7 @@ Untuk menggunakannya cukup mudah dengan mengupload foto anda dengan menggunakan 
   Tampilan dari Hasil yang diperoleh oleh sistem.
 </p>
 
-Jika foto wajah dengan foto KTP match maka sistem akan memberikan respon ceklis di ikuti dengan tulisan `The Picture Match`
+Jika foto wajah dengan foto KTP match maka sistem akan memberikan respon ceklis di ikuti dengan tulisan The Picture Match.
 
 ---
 
@@ -75,7 +75,7 @@ Jika foto wajah dengan foto KTP match maka sistem akan memberikan respon ceklis 
 ---
 
 Aplikasi ini berupa form yang harus diisi oleh calon peminjam, form ini bertujuan untuk mengecek latar belakang dari calon peminjam.  
-Jika track record dari calon peminjam baik maka usulan peminjamannya akan diterima.
+Jika setelah dilakukan background checikng dari calon peminjam hasilnya baik maka usulan peminjamannya akan diterima.
 
 <p align="center">
   <img src="form.png" width=700 align="center">
